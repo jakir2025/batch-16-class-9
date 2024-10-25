@@ -1,0 +1,9 @@
+
+
+
+
+
+=============Margin|Padding=============
+
+1. Margin => Take space outside of the box
+2. Padding => Take space inside of the box
